@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @azizfares
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on other university
+- 📫 How to reach me telegram
+- 😄 Pronouns: aziz
+- ⚡ Fun fact: py gig
